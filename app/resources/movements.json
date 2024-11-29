@@ -1,0 +1,79 @@
+{
+  "incomes": [
+    {
+      "first": { "amount": "8500.25", "currency": "EUR" },
+      "second": {
+        "variability": "decrease",
+        "amount": "500",
+        "currency": "EUR"
+      },
+      "title": "See patrimony"
+    },
+    {
+      "first": { "amount": "2300.05", "currency": "EUR" },
+      "title": "See income"
+    },
+    {
+      "first": { "amount": "1500.75", "currency": "EUR" },
+      "title": "See expenses"
+    },
+    {
+      "first": { "amount": "500.25", "currency": "EUR" },
+      "title": "See savings"
+    }
+  ],
+  "accounts": [
+    {
+      "account": "ES060182416188020181",
+      "alias": "Nóminas account",
+      "allowableLimit": "50000",
+      "amount": "40428.38",
+      "arranged": "35000",
+      "currency": "EUR",
+      "disposableAmount": "43938.38",
+      "entity": "entity:BBVAESMMXXX",
+      "entityName": "BBVA",
+      "name": "Account Blue",
+      "status": "Available",
+      "title": "Account •0181",
+      "type": "Current account"
+    },
+    {
+      "account": "ES060182411188050111",
+      "alias": "Expenses account",
+      "allowableLimit": "50000",
+      "amount": "23567.21",
+      "arranged": "25000",
+      "currency": "EUR",
+      "disposableAmount": "34668.93",
+      "entity": "entity:BBVAESMMXXX",
+      "entityName": "BBVA",
+      "name": "Account Blue",
+      "status": "Available",
+      "title": "Account •0111",
+      "type": "Current account"
+    },
+    {
+      "account": "ES060182416176021923",
+      "alias": "Savings account",
+      "allowableLimit": "50000",
+      "amount": "26932.09",
+      "arranged": "45000",
+      "currency": "EUR",
+      "disposableAmount": "33412.87",
+      "entity": "entity:BBVAESMMXXX",
+      "entityName": "BBVA",
+      "name": "Account Blue",
+      "status": "Available",
+      "title": "Account •1923",
+      "type": "Current account"
+    }
+  ],
+  "cards": [
+    { "cardNumber": "0000000000001234", "type": "debit", "title": "debit" },
+    { "cardNumber": "0000000000005678", "type": "credit", "title": "credit" },
+    { "cardNumber": "0000000000002361", "type": "prepay", "title": "prepay" }
+  ],
+  "totalAmount": "90927.68",
+  "totalExpenses": "8500.00"
+}
